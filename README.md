@@ -1,4 +1,4 @@
-Tomato Farming Advisory AI System: Disease Detection, Adaptive Chatbot & Early Warnings
+## Tomato Farming Advisory AI System: Disease Detection, Adaptive Chatbot & Early Warnings
 🌱 Project Overview
 The Tomato Farming Advisory AI System is a comprehensive, AI-powered solution tailored for tomato farmers. It integrates three essential components: a deep learning model for tomato leaf disease detection, an AI chatbot that provides adaptive agricultural guidance, and an early warning system for pest, disease, or drought threats. The system helps farmers make smarter, timely, and data-driven decisions to boost yield and reduce losses.
 
